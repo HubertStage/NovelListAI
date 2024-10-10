@@ -1,9 +1,9 @@
 {
   "Product": {
-    "name": "xueyan",  
+    "name": "xueyan",    
     "solgan": "创意到剧本，AI全程助力。"
   },
-  "LandingPage": {
+  "LandingPage": {  
     "Index": {
       "title": "ScriptCraft"
     },
@@ -14,7 +14,7 @@
     },
     "Features": {
       "title": "主要功能",
-      "characterProfile": {
+      "CharacterProfile": {  
         "title": "角色档案生成器",
         "description": "轻松创建详细的角色档案。"
       },
