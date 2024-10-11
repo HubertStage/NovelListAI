@@ -12,9 +12,9 @@
       "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
       "cta": "开始使用"
     },
-    "Features": {
+    "Features": {  
       "title": "主要功能",
-      "characterProfile": {  
+      "CharacterProfile": {    
         "title": "角色档案生成器",
         "description": "轻松创建详细的角色档案。"
       },
