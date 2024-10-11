@@ -1,9 +1,9 @@
 {
   "Product": {
-    "name": "ScriptCraft",      
+    "name": "ScriptCraft",
     "solgan": "创意到剧本，AI全程助力。"
   },
-  "LandingPage": {      
+  "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
@@ -14,7 +14,7 @@
     },
     "Features": {
       "title": "主要功能",
-      "CharacterProfile": {  
+      "characterProfile": {  
         "title": "角色档案生成器",
         "description": "轻松创建详细的角色档案。"
       },
@@ -228,7 +228,7 @@
     "chapter": "第{number}章",
     "wordCount": "字数：{count}",
     "startWriting": "开始写作...",
-    "getAISuggestion": "获取AI建议",
+    "getAISuggestion": "获取AI建议",  
     "saveDraft": "保存草稿",
     "aiWritingSuggestion": "AI写作建议",
     "aiSuggestionPlaceholder": "AI生成的建议会显示在这里。",
